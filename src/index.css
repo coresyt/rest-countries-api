@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+:root {
+  --color-fm-dark-blue: rgb(43 57 69 / 1); /* (Dark Mode Elements) */
+  --color-fm-very-dark-blue-dark: rgb(32 44 55 / 1); /* (Dark Mode Background) */
+  --color-fm-very-dark-blue-light: rgb(17 21 23 / 1); /* (Light Mode Text) */
+  --color-fm-dark-gray: rgb(133 133 133 / 1); /* (Light Mode Input) */
+  --color-fm-very-light-gray: rgb(250 250 250 / 1); /* (Light Mode Background) */
+  --color-fm-white: rgb(255 255 255 / 1); /* (Dark Mode Text & Light Mode Elements) */
+}
